@@ -11,7 +11,8 @@
   display: flex;
   flex-direction: column;
   width: 500px;
-  height: 50vh;
+  height: 52.5vh;
+  border-radius: 10px;
   box-shadow: 2px 2px 5px rgb(122, 121, 121), -2px -2px 5px rgb(243, 99, 47);
 }
 
@@ -44,10 +45,19 @@
   color: rgb(48, 46, 46);
   font-size: 20px;
   border: 1px solid rgb(201, 195, 195);
+  border-radius: 10px;
 }
 
 .btn-orang {
   background: rgb(243, 99, 47);
+}
+
+.btn-orang:hover {
+  border: 3px dotted rgb(201, 195, 195);
+}
+
+.btn-gray:hover {
+  border: 3px dotted rgb(243, 99, 47);
 }
 
 .zero {
