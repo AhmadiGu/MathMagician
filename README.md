@@ -25,7 +25,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
->The math magicians is single page website which will allows you to perform simple calculation just like calculator. Website is react based.
+>The math magicians is single page website which will allows you to perform simple calculation just like calculator. Website is react based. and also it have different pages that you can see and display it as single page website. 
 
  
 
@@ -53,7 +53,9 @@
 
 ### Key Features <a name="key-features"></a>
 
- 
+ - **Single page website**
+- **Calculate simple operations**
+- **Routing operation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +95,8 @@ Clone this repository to your desired folder:
 
  
  
-
+### Run
+npm start
 
  
 
