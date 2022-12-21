@@ -18,7 +18,7 @@ class App extends Component {
         <Navbar />
         <Routes>
           <Route
-            path="/math-magicians/"
+            path="/"
             element={(<Home />)}
           />
           <Route
